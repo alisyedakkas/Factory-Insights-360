@@ -39,15 +39,15 @@ This project aims to streamline and optimize various aspects of Orient Allure Li
    
 ![GST View](https://github.com/alisyedakkas/Factory-Insights-360/blob/main/Media/Dashboard%20Photos/GST%20View.png)
 
-## Sales View
+## Inspection View
 ### Objectives
-1. Increase sales revenue and market share.
-2. Enhance customer relationship management.
+1. Increase Quality of the garments.
+2. Enhance buyer relationship management.
 ### Key Achievements
-1. Created customer and product overall sales performance report and unit economics.
-2. Identified sales trends and track KPIs
+1. Created buyer and factory overall inspection result on basis of inspection report & shipment qty.
+2. Identified the responsibility for inspection fail.
 
-![Finance View](https://github.com/alisyedakkas/Business-Insights-360/blob/main/Media/Dashboard%20Photos/Sales%20View.png)
+![Inspection View](https://github.com/alisyedakkas/Factory-Insights-360/blob/main/Media/Dashboard%20Photos/Inspection%20View.png)
 ## Marketing View
 ### Objectives
 1. Increase brand visibility and customer engagement.
