@@ -34,7 +34,7 @@ This project aims to streamline and optimize various aspects of Orient Allure Li
 1. Improve total working hours and factory Efficiency.
 2. Enhance Unit cost for production.
 ### Key Achievements
-1. Implemented a robust efficiency analysis model where efficiency of each buyer for last few months are compared, resulting in more improvement of factory efficiency.
+1. Implemented a robust efficiency analysis model where efficiency of each customer for last few months are compared, resulting in more improvement of factory efficiency.
 2. Created benchmark for unit cost of future products .
    
 ![GST View](https://github.com/alisyedakkas/Factory-Insights-360/blob/main/Media/Dashboard%20Photos/GST%20View.png)
@@ -42,21 +42,22 @@ This project aims to streamline and optimize various aspects of Orient Allure Li
 ## Inspection View
 ### Objectives
 1. Increase Quality of the garments.
-2. Enhance buyer relationship management.
+2. Enhance customer relationship management.
 ### Key Achievements
-1. Created buyer and factory overall inspection result on basis of inspection report & shipment qty.
+1. Created customer and factory overall inspection result on basis of inspection report & shipment qty.
 2. Identified the responsibility for inspection fail.
 
 ![Inspection View](https://github.com/alisyedakkas/Factory-Insights-360/blob/main/Media/Dashboard%20Photos/Inspection%20View.png)
-## Marketing View
-### Objectives
-1. Increase brand visibility and customer engagement.
-2. Implement data-driven marketing strategies.
-### Key Achievements
-1. Created region and product wise overall market performance report and unit economics.
-2. Identified market trends and track KPIs
 
-![Finance View](https://github.com/alisyedakkas/Business-Insights-360/blob/main/Media/Dashboard%20Photos/Marketing%20View.png)
+## Shipment View
+### Objectives
+1. Fullfill the customer order quantity.
+2. Reduce the raw material wastage.
+### Key Achievements
+1. Created customer and factory ways order qty fullfill percantage matrix and material usage percentage.
+2. Identified the amount of production wastage percentage for customer & factory
+
+![Shipment View](https://github.com/alisyedakkas/Factory-Insights-360/blob/main/Media/Dashboard%20Photos/Shipment%20View.png)
 ## Supply Chain View
 ### Objectives
 1. Optimize inventory management and reduce lead times.
