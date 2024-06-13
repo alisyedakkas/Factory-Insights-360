@@ -13,7 +13,7 @@ This project aims to streamline and optimize various aspects of Orient Allure Li
 ![Home Page](https://github.com/alisyedakkas/Factory-Insights-360/blob/main/Media/Dashboard%20Photos/Home%20Page.png)
 
 
-[Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiYjA0ZTc5YzItM2M3Mi00Y2IwLWI4OTktMWE2MjBmYjI3NDk3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_
+[Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiNDdkNjYyNjAtNmFlMC00M2ZjLWJiZWMtYjZkY2ZmY2JiMWVhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_
 
 [Proect Video Link](https://www.youtube.com/embed/7VPdxJDEAcM?si=6-DBfMA-_WKU0o_R)_
 
