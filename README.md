@@ -84,7 +84,7 @@ This project aims to streamline and optimize various aspects of Orient Allure Li
 2. Data Modelling ,Data Validation Techniques and using KPI Indicators
 3. Use of Bookmark and Conditional Formatting
 4. Page Navigation with Buttons
-5. Use of multiple langusge
+5. Use of multiple language
 6. Dynamic Titles based on the applied filters
 7. PowerBI Services for publishing and sharing reports online
 8. Auto Refresh setup for data through Gateway
