@@ -1,3 +1,4 @@
+![Factory Logo](https://github.com/alisyedakkas/Factory-Insights-360/blob/main/Media/Orient%20logo.png)
 # Orient Allure Lingerie Ltd Factory Insights 360 Project
 
 ## Company Overview
