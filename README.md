@@ -1,7 +1,7 @@
 # Orient Allure Lingerie Ltd Factory Insights 360 Project
 
 ## Company Overview
-Orient Allure Lingerie Ltd is a Chinese owned company which is operating its factory in Bangladesh for last 12 years and exports its products to Europe.There main products are ladies lingerie product.The factory has 2 unit in Gazipur,Dhaka.Unit 1 is having 1500 manpower and Unit 2 is having 700 manpower.
+Orient Allure Lingerie Ltd is a Chinese owned company which is operating its factory in Bangladesh for last 12 years and exports its products to Europe.Their main products are ladies lingerie product.The factory has 2 unit in Gazipur,Dhaka.Unit 1 is having 1500 manpower and Unit 2 is having 700 manpower.
 
 ## Problem Statement
 This is a real project. Orient Allure Lingerie Ltd is using Microsoft Excel and Powerpoint for long time to analyze all reports and data.But using Excel and Powerpoint its hard and time consuming to get proper insights. Management of the company decided to use Microsoft Power BI for data analytics and to visualize all its reports so that they can analyze the performance & insights of the factory.
@@ -58,14 +58,16 @@ This project aims to streamline and optimize various aspects of Orient Allure Li
 2. Identified the amount of production wastage percentage for customer & factory
 
 ![Shipment View](https://github.com/alisyedakkas/Factory-Insights-360/blob/main/Media/Dashboard%20Photos/Shipment%20View.png)
-## Supply Chain View
-### Objectives
-1. Optimize inventory management and reduce lead times.
-2. Enhance supplier relationships for cost savings.
-### Key Achievements
-1.Identified forecast accuracy % , net error % ,absolute error % trends 2. Key Metrices by customers and products demanding supply management.
 
-![Finance View](https://github.com/alisyedakkas/Business-Insights-360/blob/main/Media/Dashboard%20Photos/Supply%20Chain%20View.png)
+## Rework View
+### Objectives
+1. Reduce Rework rate and defects.
+2. Increase quantity by reducing rework.
+### Key Achievements
+1.Identified top defects for each line,lines having maximum rework rate.
+2.Enhance quality performance of the sewing lines.
+
+![Rework View](https://github.com/alisyedakkas/Factory-Insights-360/blob/main/Media/Dashboard%20Photos/Rework%20View.png)
 
 ## Skills
 ### Power BI Fundamentals
