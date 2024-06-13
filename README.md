@@ -15,7 +15,7 @@ This project aims to streamline and optimize various aspects of Orient Allure Li
 
 [Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiNDdkNjYyNjAtNmFlMC00M2ZjLWJiZWMtYjZkY2ZmY2JiMWVhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_
 
-[Proect Video Link](https://www.youtube.com/embed/7VPdxJDEAcM?si=6-DBfMA-_WKU0o_R)_
+[Proect Video Link](https://www.youtube.com/embed/v4SErd8LE4Y?si=koPVwZsJlgrz1jKs)_
 
 
 ## Executive View
