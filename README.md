@@ -28,7 +28,6 @@ This project aims to streamline and optimize various aspects of Orient Allure Li
 ![Executive View](https://github.com/alisyedakkas/Factory-Insights-360/blob/main/Media/Dashboard%20Photos/Executive%20View.png)
 
 
-
 ## GST View
 ### Objectives
 1. Improve total working hours and factory Efficiency.
@@ -62,12 +61,22 @@ This project aims to streamline and optimize various aspects of Orient Allure Li
 ## Rework View
 ### Objectives
 1. Reduce Rework rate and defects.
-2. Increase quantity by reducing rework.
+2. Increase production quantity by reducing rework.
 ### Key Achievements
 1.Identified top defects for each line,lines having maximum rework rate.
 2.Enhance quality performance of the sewing lines.
 
 ![Rework View](https://github.com/alisyedakkas/Factory-Insights-360/blob/main/Media/Dashboard%20Photos/Rework%20View.png)
+
+## Sewing View
+### Objectives
+1. Increase the production of the factory.
+2. Enhance Factory production efficiency.
+### Key Achievements
+1.Identified top performing sewing lines on basis of production quantity and efficiency.
+2.Enhance target vs production ratio.
+
+![Sewing View](https://github.com/alisyedakkas/Factory-Insights-360/blob/main/Media/Dashboard%20Photos/Sewing%20View.png)
 
 ## Skills
 ### Power BI Fundamentals
@@ -75,33 +84,36 @@ This project aims to streamline and optimize various aspects of Orient Allure Li
 2. Data Modelling ,Data Validation Techniques and using KPI Indicators
 3. Use of Bookmark and Conditional Formatting
 4. Page Navigation with Buttons
-5. Use of Tooltips to save page area
+5. Use of multiple langusge
 6. Dynamic Titles based on the applied filters
 7. PowerBI Services for publishing and sharing reports online
 8. Auto Refresh setup for data through Gateway
 9. Create Date Table using M language
+    
 ### Technology
-1. SQL
-2. PowerBI Desktop
-3. DAX language
-4. Dax Studio( TO REDUCE FILE SIZE)
-5. Project Charter file
+1. Excel
+2. SQL
+3. PowerBI Desktop
+4. DAX language
+5. Dax Studio( TO REDUCE FILE SIZE)
+6. Project Charter file
+   
 ### Business Related Terms
-1. Gross Margin,Gross Margin %
-2. Gross Sales
-3. Pre _ Invoice deductions and Post _ Invoice deductions
-4. Net sales , Net Invoice Sales
-5. Net Profit and Net Profit %
-6. COGS(cost of goods sold)
-7. YTG (year to go)
-8. YTD ( year to date)
-9. Direct ,retailer, consumer and distributors
+1. Leave rate,Attrition rate
+2. Machine usage and Man to Machine ratio
+3. Pass/Fail rate
+4. Rework Rate, Repeat order %
+5. Order to Shipment and Cuting to Shipment percentage
+6. GST Efficiency
+7. Shipment percentage and Material rate
+8. Rework rate & Defects
+9. Machine breakdown
 ### Soft Skills
 1. Stakeholders mapping analysis
 2. Effective communication with stakeholders feedback and management
-3. Business and domain knowledge in sales,finance,marketing and supply chain.
+3. Business and domain knowledge in Garments factory.
 ## Conclusion
 This dashboard answers many business questions based on different scenerio.
-This report can be used to take data driven decision to make AtliQ more profitable.
+This report can be used to take data driven decision to make Orient Allure Lingerie Ltd more profitable.
 
-### Special thanks to mentors, Hemanand Vadivel and Dhaval Patel. This project was part of the Power BI course offered by CodeBasis.
+### Thank you so much
